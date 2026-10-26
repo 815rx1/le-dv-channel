@@ -1,0 +1,94 @@
+{
+  "LibreELEC_DV-13.0": {
+    "prettyname_regex": "^LibreELEC-[^.]+\\.[^-]+-(.+\\.tar)$",
+    "project": {
+      "Generic.x86_64": {
+        "displayName": "Generic (AMD/Intel)",
+        "releases": {
+          "0": {
+            "file": {
+              "name": "LibreELEC-Generic.x86_64-13.0-intel-dv-0.1.0-rc1.tar",
+              "sha256": "34ec4fe59e8e4386a864ef87f90afeade035e4600fe3c7ad11b1c9245fd25636",
+              "size": "548689920",
+              "subpath": "v0.1.0-rc1",
+              "timestamp": "2026-09-25 21:11:19"
+            }
+          },
+          "1": {
+            "file": {
+              "name": "LibreELEC-Generic.x86_64-13.0-intel-dv-0.1.0-rc1-opt1-diag1.tar",
+              "sha256": "8e3cb5169530497557e0daec4fb4504a07474bae0d0ff1376f44ba20493cb3b7",
+              "size": "548700160",
+              "subpath": "R0.1.0-rc2-opt1",
+              "timestamp": "2026-09-27 18:28:44"
+            }
+          },
+          "2": {
+            "file": {
+              "name": "LibreELEC-Generic.x86_64-13.0-intel-dv-0.2.1a-opt1.tar",
+              "sha256": "330d4ff2cf46375644c1f8644db3b1eb97647a102e6a4ae8c563d4195b2a9692",
+              "size": "548700160",
+              "subpath": "R0.2.1a-opt1",
+              "timestamp": "2026-09-28 12:02:09"
+            }
+          },
+          "3": {
+            "file": {
+              "name": "LibreELEC-Generic.x86_64-13.0-intel-dv-0.3.0.tar",
+              "sha256": "49ee1fffcd47d520deb42eb22c1cf42f24625062e297ceba5638a248c591558d",
+              "size": "548720640",
+              "subpath": "R0.3.0",
+              "timestamp": "2026-09-28 22:15:57"
+            }
+          },
+          "4": {
+            "file": {
+              "name": "LibreELEC-Generic.x86_64-13.0-R1.0.0-Beta1.tar",
+              "sha256": "9ef97cb244db72f8ca6f05011dfe108aafc035660bef25d880245abdd690b632",
+              "size": "552304640",
+              "subpath": "R1.0.0-Beta1",
+              "timestamp": "2026-10-06 20:56:09"
+            }
+          },
+          "5": {
+            "file": {
+              "name": "LibreELEC-Generic.x86_64-13.0-R1.0.0-Beta2.tar",
+              "sha256": "34e477d062c5e0f7a587cbdbaca61a7b5e531a123f6061c139d1790ff824bb4f",
+              "size": "554096640",
+              "subpath": "R1.0.0-Beta2",
+              "timestamp": "2026-10-08 17:52:09"
+            }
+          },
+          "6": {
+            "file": {
+              "name": "LibreELEC-Generic.x86_64-13.0-DV-R1.0.0-Beta3.tar",
+              "sha256": "be4797d5cfa62d0746ba30baaed76ae07fc2fd8ea576db9bd256fc6604774189",
+              "size": "465059840",
+              "subpath": "R1.0.0-Beta3",
+              "timestamp": "2026-10-11 19:38:17"
+            }
+          },
+          "7": {
+            "file": {
+              "name": "LibreELEC-Generic.x86_64-13.0-DV-R1.0.0-Beta4.tar",
+              "sha256": "93c25006cf328eec3484a039cf23b9ecdec8b96333e33e0699cac79b55285bbd",
+              "size": "492144640",
+              "subpath": "R1.0.0-Beta4",
+              "timestamp": "2026-10-18 18:53:59"
+            }
+          },
+          "8": {
+            "file": {
+              "name": "LibreELEC-Generic.x86_64-13.0-DV-R1.0.0-Beta5.tar",
+              "sha256": "fb82da918ebd915d73f88334604d19ce55cd6df8b9cffb54a08943d2137f7637",
+              "size": "492154880",
+              "subpath": "R1.0.0-Beta5",
+              "timestamp": "2026-10-20 18:24:48"
+            }
+          }
+        }
+      }
+    },
+    "url": "https://github.com/CroqueMr/libreelec-x86-DV/releases/download/"
+  }
+}
