@@ -85,6 +85,24 @@
               "subpath": "R1.0.0-Beta5",
               "timestamp": "2026-10-20 18:24:48"
             }
+          },
+          "9": {
+            "file": {
+              "name": "LibreELEC-Generic.x86_64-13.0-DV-R1.0.0-RC1.tar",
+              "sha256": "42f3c5a3ee38697eb4ef32d45756a9c6215e405882824a12fcc8b6f09cb4544f",
+              "size": "707706880",
+              "subpath": "R1.0.0-RC1",
+              "timestamp": "2026-10-28 17:56:01"
+            }
+          },
+          "10": {
+            "file": {
+              "name": "LibreELEC-Generic.x86_64-13.0-DV-R1.0.0-RC1.1.tar",
+              "sha256": "16a5b093c149eddc4c9964c58be20dc39bec0095ca4a482a2c661ef2e6b1c99b",
+              "size": "707717120",
+              "subpath": "R1.0.0-RC1.1",
+              "timestamp": "2026-10-29 02:01:30"
+            }
           }
         }
       }
