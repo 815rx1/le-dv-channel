@@ -97,11 +97,11 @@
           },
           "10": {
             "file": {
-              "name": "LibreELEC-Generic.x86_64-13.0-DV-R1.0.0-RC1.1.tar",
-              "sha256": "16a5b093c149eddc4c9964c58be20dc39bec0095ca4a482a2c661ef2e6b1c99b",
+              "name": "LibreELEC-Generic.x86_64-13.0-DV-R1.0.0-RC1.1-Debug.tar",
+              "sha256": "a3a25904b6d5697a59e4bffeb177f49a57a60d63c14cfa229721c1a6039d274c",
               "size": "707717120",
-              "subpath": "R1.0.0-RC1.1",
-              "timestamp": "2026-10-29 02:01:30"
+              "subpath": "R1.0.0-RC1.1-Debug",
+              "timestamp": "2026-10-29 18:53:10"
             }
           }
         }
