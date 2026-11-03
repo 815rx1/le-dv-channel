@@ -116,10 +116,10 @@
           "12": {
             "file": {
               "name": "LibreELEC-Generic.x86_64-13.0-DV-R1.0.0-RC3-Preview.tar",
-              "sha256": "5a1a4028cc6d25c3bc966c30b3e58717227756410cf25cc833e683aa1ae54ed8",
-              "size": "707809280",
+              "sha256": "209931e9804fb66af6ef6972febcbc3846a2d09c4d44aa95fd1bf8f17ace2eb5",
+              "size": "744366080",
               "subpath": "R1.0.0-RC3-Preview",
-              "timestamp": "2026-11-02 12:26:11"
+              "timestamp": "2026-11-02 23:15:20"
             }
           }
         }
