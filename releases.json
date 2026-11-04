@@ -121,6 +121,15 @@
               "subpath": "R1.0.0-RC3-Preview",
               "timestamp": "2026-11-02 23:15:20"
             }
+          },
+          "13": {
+            "file": {
+              "name": "LibreELEC-Generic.x86_64-13.0-DV-R1.0.0-RC3.tar",
+              "sha256": "a75a0e9b19f09c58bc17c328f66f9aea6f757ccd007109bd178e24dcacb6f402",
+              "size": "744376320",
+              "subpath": "R1.0.0-RC3",
+              "timestamp": "2026-11-04 12:33:10"
+            }
           }
         }
       }
