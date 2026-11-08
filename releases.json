@@ -133,11 +133,11 @@
           },
           "14": {
             "file": {
-              "name": "LibreELEC-Generic.x86_64-13.0-DV-R1.0.0-RC4-Preview.tar",
-              "sha256": "26eec6e97b646eacda44f827a14df303d01b2d787c9ff753b8eadab8db412a44",
-              "size": "744386560",
+              "name": "LibreELEC-Generic.x86_64-13.0-DV-R1.0.0-RC4-Preview-Update2.tar",
+              "sha256": "14659c3fb8a6459982359071c706e186ad1691c03f25e931cbb0e1d2fbf96866",
+              "size": "744396800",
               "subpath": "R1.0.0-RC4-Preview",
-              "timestamp": "2026-11-07 10:15:07"
+              "timestamp": "2026-11-07 17:32:15"
             }
           }
         }
