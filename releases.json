@@ -139,6 +139,15 @@
               "subpath": "R1.0.0-RC4-Preview",
               "timestamp": "2026-11-13 07:16:55"
             }
+          },
+          "15": {
+            "file": {
+              "name": "LibreELEC-Generic.x86_64-13.0-DV-R1.0.0-Stable-LLDV-e46aca8a.tar",
+              "sha256": "386cfd176fd1a3ae06a1105b4e7978d45bc12e3fa6af0672ca22f33647c72441",
+              "size": "790999040",
+              "subpath": "R1.0.0",
+              "timestamp": "2026-11-16 08:05:37"
+            }
           }
         }
       }
